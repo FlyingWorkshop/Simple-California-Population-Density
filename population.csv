@@ -1,0 +1,1354 @@
+﻿Rank,City,Population
+1,Los Angeles,"3,979,576"
+2,San Diego,"1,423,851"
+3,San Jose,"1,021,795"
+4,San Francisco,"881,549"
+5,Fresno,"531,576"
+6,Sacramento,"513,624"
+7,Long Beach,"462,628"
+8,Oakland,"433,031"
+9,Bakersfield,"384,145"
+10,Anaheim,"350,365"
+11,Santa Ana,"332,318"
+12,Riverside,"331,360"
+13,Stockton,"312,697"
+14,Irvine,"287,401"
+15,Chula Vista,"274,492"
+16,Fremont,"241,110"
+17,San Bernardino,"215,784"
+18,Modesto,"215,196"
+19,Fontana,"214,547"
+20,Moreno Valley,"213,055"
+21,Santa Clarita,"212,979"
+22,Oxnard,"208,881"
+23,Glendale,"199,303"
+24,Huntington Beach,"199,223"
+25,Ontario,"185,010"
+26,Rancho Cucamonga,"177,603"
+27,Santa Rosa,"176,753"
+28,Oceanside,"175,742"
+29,Elk Grove,"174,775"
+30,Garden Grove,"171,644"
+31,Corona,"169,868"
+32,Hayward,"159,203"
+33,Lancaster,"157,601"
+34,Salinas,"155,465"
+35,Palmdale,"155,079"
+36,Sunnyvale,"152,703"
+37,Pomona,"151,691"
+38,Escondido,"151,625"
+39,Torrance,"143,592"
+40,Roseville,"141,500"
+41,Pasadena,"141,029"
+42,Orange,"138,669"
+43,Fullerton,"138,632"
+44,Visalia,"134,605"
+45,Santa Clara,"130,365"
+46,Concord,"129,295"
+47,Thousand Oaks,"126,813"
+48,Simi Valley,"125,613"
+49,Victorville,"122,385"
+50,Vallejo,"121,692"
+51,Berkeley,"121,363"
+52,East Los Angeles,"119,827"
+53,Fairfield,"117,133"
+54,Murrieta,"116,223"
+55,El Monte,"115,487"
+56,Carlsbad,"115,382"
+57,Temecula,"114,761"
+58,Clovis,"114,584"
+59,Costa Mesa,"113,003"
+60,Antioch,"111,502"
+61,Downey,"111,126"
+62,Richmond,"110,567"
+63,Jurupa Valley,"109,527"
+64,San Buenaventura (Ventura),"109,106"
+65,Inglewood,"108,151"
+66,Santa Maria,"107,263"
+67,Daly City,"106,280"
+68,West Covina,"105,101"
+69,San Mateo,"104,430"
+70,Norwalk,"103,949"
+71,Rialto,"103,526"
+72,Chico,"103,301"
+73,El Cajon,"102,708"
+74,Burbank city,"102,511"
+75,Vista,"101,638"
+76,Vacaville,"100,670"
+77,Arden-Arcade,"100,548"
+78,San Marcos,"96,664"
+79,Hesperia,"95,750"
+80,Compton,"95,605"
+81,Menifee,"94,756"
+82,Tracy,"94,740"
+83,Mission Viejo,"94,381"
+84,Chino,"94,371"
+85,South Gate,"93,444"
+86,Redding,"92,590"
+87,Indio,"91,765"
+88,Carson,"91,394"
+89,Santa Barbara,"91,364"
+90,Westminster,"90,643"
+91,Santa Monica,"90,401"
+92,Livermore,"90,189"
+93,San Leandro,"88,815"
+94,Citrus Heights,"87,796"
+95,Hawthorne,"86,068"
+96,Redwood City,"85,925"
+97,Lake Forest,"85,531"
+98,Hemet,"85,334"
+99,Whittier,"85,098"
+100,Newport Beach,"84,534"
+101,Milpitas,"84,196"
+102,Chino Hills,"83,853"
+103,Alhambra,"83,750"
+104,Merced,"83,676"
+105,Manteca,"83,028"
+106,Mountain View city,"82,739"
+107,Buena Park,"81,788"
+108,Pleasanton,"81,777"
+109,Folsom,"81,328"
+110,Tustin,"79,348"
+111,Lakewood,"79,307"
+112,Perris,"79,291"
+113,Napa,"78,130"
+114,Alameda,"77,624"
+115,Upland,"77,140"
+116,Bellflower,"76,435"
+117,San Ramon,"75,995"
+118,Baldwin Park,"75,251"
+119,Rancho Cordova,"75,087"
+120,Union City,"74,107"
+121,Turlock,"73,631"
+122,Apple Valley,"73,453"
+123,Pittsburg,"72,588"
+124,Redlands,"71,513"
+125,Walnut Creek,"70,166"
+126,Camarillo,"69,888"
+127,Lynwood,"69,887"
+128,Davis,"69,413"
+129,Lake Elsinore,"69,283"
+130,Rocklin,"68,823"
+131,South San Francisco,"67,789"
+132,Yorba Linda,"67,644"
+133,Lodi,"67,586"
+134,Yuba City,"67,010"
+135,Redondo Beach,"66,749"
+136,Laguna Niguel,"66,385"
+137,Madera,"65,860"
+138,Tulare,"65,496"
+139,Palo Alto,"65,364"
+140,Dublin,"64,826"
+141,Carmichael,"64,785"
+142,Santa Cruz,"64,608"
+143,San Clemente,"64,558"
+144,Brentwood,"64,474"
+145,Florence-Graham,"64,162"
+146,Eastvale,"64,157"
+147,Castro Valley,"63,288"
+148,Encinitas,"62,709"
+149,Pico Rivera,"62,027"
+150,Montebello,"61,954"
+151,National City,"61,394"
+152,Woodland,"60,548"
+153,Petaluma,"60,520"
+154,La Habra,"60,513"
+155,South Whittier,"60,096"
+156,Monterey Park,"59,669"
+157,Porterville,"59,599"
+158,Gardena,"59,329"
+159,Cupertino,"59,276"
+160,La Mesa,"59,249"
+161,Gilroy,"59,032"
+162,San Rafael,"58,440"
+163,Santee,"58,081"
+164,Arcadia,"57,939"
+165,Hanford,"57,703"
+166,Huntington Park,"57,509"
+167,Diamond Bar,"55,720"
+168,Novato,"55,516"
+169,Highland,"55,417"
+170,Fountain Valley,"55,357"
+171,Cathedral City,"55,007"
+172,Hacienda Heights,"54,970"
+173,Colton,"54,824"
+174,Rosemead,"54,058"
+175,Paramount,"53,955"
+176,Yucaipa,"53,921"
+177,Watsonville,"53,856"
+178,Delano,"53,573"
+179,West Sacramento,"53,519"
+180,Palm Desert,"53,275"
+181,Glendora,"51,544"
+182,Placentia,"51,233"
+183,Beaumont,"51,063"
+184,Aliso Viejo,"50,887"
+185,Rowland Heights,"50,602"
+186,Azusa,"49,974"
+187,Cerritos,"49,859"
+188,Poway,"49,323"
+189,San Jacinto,"49,215"
+190,Newark,"49,149"
+191,Florin,"49,132"
+192,Cypress,"49,006"
+193,North Highlands,"48,968"
+194,Ceres,"48,706"
+195,Palm Springs,"48,518"
+196,Lincoln,"48,275"
+197,La Mirada,"48,183"
+198,Rancho Santa Margarita,"47,896"
+199,San Luis Obispo,"47,459"
+200,Covina,"47,450"
+201,Antelope,"47,326"
+202,Morgan Hill,"45,952"
+203,Coachella,"45,743"
+204,El Dorado Hills,"45,599"
+205,Altadena,"45,146"
+206,Danville,"44,510"
+207,El Centro,"44,079"
+208,Rohnert Park,"43,291"
+209,Brea,"43,255"
+210,Lompoc,"42,853"
+211,San Bruno,"42,807"
+212,Oakley,"42,543"
+213,Bell Gardens,"42,012"
+214,Campbell,"41,793"
+215,La Quinta,"41,748"
+216,Rancho Palos Verdes,"41,530"
+217,Los Banos,"41,036"
+218,Hollister,"40,740"
+219,Montclair,"40,083"
+220,San Gabriel,"39,899"
+221,Calexico,"39,825"
+222,La Puente,"39,614"
+223,Culver City,"39,185"
+224,Pacifica,"38,546"
+225,Martinez,"38,297"
+226,Stanton,"38,139"
+227,La Presa,"37,437"
+228,Wildomar,"37,229"
+229,West Hollywood,"36,475"
+230,Moorpark,"36,375"
+231,Monrovia,"36,331"
+232,Claremont,"36,266"
+233,San Juan Capistrano,"35,911"
+234,Temple City,"35,811"
+235,Bell,"35,521"
+236,Manhattan Beach,"35,183"
+237,Pleasant Hill,"34,839"
+238,Orangevale,"34,757"
+239,Oildale,"34,723"
+240,Menlo Park,"34,698"
+241,Adelanto,"34,049"
+242,Foster City,"33,901"
+243,French Valley,"33,818"
+244,Beverly Hills,"33,792"
+245,Foothill Farms,"33,749"
+246,Seaside,"33,748"
+247,Westmont,"33,723"
+248,San Dimas,"33,621"
+249,Dana Point,"33,577"
+250,Fallbrook,"33,021"
+251,Lawndale,"32,389"
+252,El Paso de Robles (Paso Robles),"32,153"
+253,La Verne,"31,974"
+254,Spring Valley CDP,"31,591"
+255,Banning,"31,221"
+256,Laguna Hills,"31,207"
+257,Fair Oaks,"31,002"
+258,San Pablo,"30,990"
+259,Goleta,"30,911"
+260,Burlingame,"30,889"
+261,Orcutt,"30,493"
+262,Ladera Ranch,"30,288"
+263,Los Gatos,"30,222"
+264,San Carlos,"30,185"
+265,Saratoga,"30,153"
+266,Los Altos,"30,089"
+267,Atascadero,"30,075"
+268,Santa Paula,"29,806"
+269,Walnut,"29,685"
+270,Suisun City,"29,663"
+271,Atwater,"29,559"
+272,East Palo Alto,"29,314"
+273,Ridgecrest,"28,973"
+274,Desert Hot Springs,"28,878"
+275,Wasco,"28,710"
+276,Vineyard,"28,315"
+277,Benicia,"28,240"
+278,Monterey,"28,178"
+279,Isla Vista,"27,690"
+280,Imperial Beach,"27,440"
+281,West Whittier-Los Nietos,"27,144"
+282,Windsor,"27,128"
+283,Maywood,"26,973"
+284,Belmont,"26,941"
+285,Lemon Grove,"26,811"
+286,Lemoore,"26,725"
+287,Eureka,"26,710"
+288,Temescal Valley,"26,709"
+289,Lafayette,"26,638"
+290,Norco,"26,604"
+291,Galt,"26,536"
+292,Hercules,"26,276"
+293,Brawley,"26,227"
+294,Twentynine Palms,"26,073"
+295,Soledad,"25,999"
+296,Reedley,"25,658"
+297,El Cerrito city,"25,508"
+298,San Lorenzo,"25,388"
+299,Sanger,"25,339"
+300,South Pasadena,"25,329"
+301,Valinda,"25,296"
+302,Bay Point,"25,165"
+303,Riverbank,"24,881"
+304,Selma,"24,825"
+305,North Tustin,"24,736"
+306,Lathrop,"24,483"
+307,Loma Linda,"24,482"
+308,Dinuba,"24,461"
+309,San Fernando,"24,322"
+310,Barstow,"23,915"
+311,Seal Beach,"23,896"
+312,Calabasas,"23,853"
+313,Coronado,"23,731"
+314,Ashland,"23,635"
+315,West Puente Valley,"23,629"
+316,Rosemont,"23,617"
+317,Oakdale,"23,596"
+318,Cudahy,"23,569"
+319,Winter Gardens,"23,088"
+320,West Rancho Dominguez,"22,932"
+321,Laguna Beach,"22,827"
+322,Marina,"22,781"
+323,Lakeside,"22,560"
+324,West Carson,"22,537"
+325,Patterson,"22,524"
+326,Granite Bay,"22,439"
+327,Willowbrook,"22,402"
+328,Millbrae,"22,394"
+329,South Lake Tahoe,"22,197"
+330,Corcoran,"21,960"
+331,Port Hueneme,"21,926"
+332,Arvin,"21,851"
+333,Bloomington,"21,783"
+334,Yucca Valley,"21,777"
+335,Lennox,"21,329"
+336,Rancho San Diego,"21,289"
+337,Duarte,"21,271"
+338,Oroville,"20,737"
+339,Dixon,"20,698"
+340,East Hemet,"20,679"
+341,South San Jose Hills,"20,593"
+342,South El Monte,"20,574"
+343,American Canyon,"20,475"
+344,Shafter,"20,401"
+345,Lomita,"20,320"
+346,Ramona,"20,260"
+347,Agoura Hills,"20,222"
+348,Rosamond,"20,028"
+349,La Cañada Flintridge,"20,009"
+350,Orinda,"19,926"
+351,Mead Valley,"19,925"
+352,Cameron Park,"19,902"
+353,Albany,"19,696"
+354,Blythe,"19,682"
+355,Casa de Oro-Mount Helix,"19,635"
+356,Prunedale,"19,584"
+357,La Crescenta-Montrose,"19,500"
+358,Stevenson Ranch,"19,364"
+359,Hermosa Beach,"19,320"
+360,Linda,"19,314"
+361,Pinole,"19,250"
+362,Castaic,"18,921"
+363,Rancho Mirage,"18,528"
+364,Arcata,"18,431"
+365,Chowchilla,"18,310"
+366,Imperial,"18,120"
+367,Arroyo Grande,"17,976"
+368,Moraga,"17,783"
+369,Santa Fe Springs,"17,630"
+370,Bostonia,"17,530"
+371,Greenfield city,"17,516"
+372,Nipomo,"17,445"
+373,Live Oak,"17,390"
+374,Woodcrest,"17,310"
+375,Coalinga,"17,179"
+376,Vincent,"17,008"
+377,Valle Vista,"16,879"
+378,Rosedale,"16,737"
+379,Truckee,"16,735"
+380,East Rancho Dominguez,"16,734"
+381,McKinleyville,"16,612"
+382,El Segundo,"16,610"
+383,Artesia,"16,601"
+384,Cherryland,"16,387"
+385,Ripon,"16,386"
+386,Los Osos,"16,292"
+387,Walnut Park,"16,034"
+388,Ukiah,"15,995"
+389,Discovery Bay,"15,981"
+390,East San Gabriel,"15,932"
+391,Avocado Heights,"15,903"
+392,Parkway,"15,885"
+393,Fillmore,"15,870"
+394,Laguna Woods,"15,850"
+395,Stanford,"15,668"
+396,Mountain House,"15,645"
+397,Parlier,"15,618"
+398,Phelan,"15,532"
+399,McFarland,"15,506"
+400,Rio Linda,"15,460"
+401,La Palma,"15,428"
+402,Pacific Grove,"15,413"
+403,Alamo,"15,317"
+404,Kerman,"15,282"
+405,Clearlake,"15,267"
+406,Alpine,"15,233"
+407,Lamont,"15,222"
+408,Susanville,"15,010"
+409,Coto de Caza,"14,931"
+410,Livingston,"14,896"
+411,Salida,"14,658"
+412,North Fair Oaks,"14,547"
+413,Red Bluff,"14,539"
+414,Mill Valley,"14,259"
+415,California City,"14,198"
+416,Auburn,"14,195"
+417,Hawaiian Gardens,"14,159"
+418,Lemon Hill,"14,096"
+419,King City,"14,077"
+420,El Sobrante CDP,"13,966"
+421,El Sobrante,"13,736"
+422,Oak Park,"13,730"
+423,Muscoy,"13,726"
+424,North Auburn,"13,707"
+425,Sun Village,"13,516"
+426,Avenal,"13,496"
+427,Lindsay,"13,463"
+428,Grover Beach,"13,459"
+429,Carpinteria,"13,385"
+430,Bonita,"13,324"
+431,Big Bear City,"13,312"
+432,Olivehurst,"13,309"
+433,Solana Beach,"13,296"
+434,Palos Verdes Estates,"13,273"
+435,Lakeland Village,"13,170"
+436,San Marino,"13,048"
+437,Tehachapi,"13,011"
+438,Half Moon Bay,"12,932"
+439,Grass Valley,"12,817"
+440,Magalia,"12,671"
+441,Commerce,"12,661"
+442,Grand Terrace,"12,584"
+443 TIE,Marysville and San Anselmo,"12,476"
+444,Clayton,"12,265"
+445,Fortuna,"12,259"
+446,Larkspur,"12,254"
+447,Kingsburg,"12,108"
+448,Emeryville,"12,086"
+449,Diamond Springs,"11,989"
+450,Healdsburg,"11,845"
+451,Malibu,"11,820"
+452,Alum Rock,"11,791"
+453,Newman,"11,784"
+454,Winton,"11,761"
+455,Scotts Valley,"11,757"
+456,Delhi,"11,735"
+457,View Park-Windsor Hills,"11,580"
+458,Mendota,"11,511"
+459,Lake Los Angeles,"11,469"
+460,Camp Pendleton South,"11,459"
+461,Home Gardens,"11,442"
+462,Signal Hill,"11,421"
+463,Los Alamitos,"11,399"
+464,Hillsborough,"11,387"
+465,Canyon Lake,"11,280"
+466,Tamalpais-Homestead Valley,"11,261"
+467,Placerville,"11,175"
+468,Rossmoor,"11,160"
+469,Piedmont,"11,135"
+470,Sonoma,"11,024"
+471,Soquel,"10,862"
+472,La Riviera,"10,851"
+473,Sierra Madre,"10,793"
+474,Citrus,"10,771"
+475,Farmersville,"10,703"
+476,Garden Acres,"10,701"
+477,Anderson,"10,630"
+478,Morro Bay,"10,543"
+479,Exeter,"10,485"
+480,Shasta Lake,"10,413"
+481,Rodeo,"10,411"
+482,East Whittier,"10,391"
+483,San Diego Country Estates,"10,381"
+484,Fairview,"10,299"
+485,Orange Cove,"10,273"
+486,Quartz Hill,"10,164"
+487,Del Aire,"10,065"
+488,Capitola,"10,010"
+489,Madera Acres,"9,946"
+490,Blackhawk,"9,860"
+491,Mentone,"9,847"
+492,Country Club,"9,846"
+493,Rio del Mar,"9,775"
+494,Marina del Rey,"9,771"
+495,Lake Arrowhead,"9,765"
+496,Charter Oak,"9,760"
+497,Corte Madera,"9,751"
+498,Rio Vista,"9,718"
+499,Oak Hills,"9,700"
+500,Golden Hills,"9,407"
+501,Crestline,"9,381"
+502,Taft,"9,272"
+503,Good Hope,"9,173"
+504,Calimesa,"9,160"
+505,Fort Irwin,"9,086"
+506,Tiburon,"9,084"
+507,Valley Center,"9,059"
+508,Bonadelle Ranchos-Madera Ranchos,"8,971"
+509,Waterford,"8,962"
+510,Larkfield-Wikiup,"8,926"
+511,Live Oak city,"8,912"
+512,Earlimart,"8,790"
+513,August,"8,774"
+514,Cloverdale,"8,656"
+515,South San Gabriel,"8,643"
+516,Montecito,"8,611"
+517,West Athens,"8,574"
+518,Ione,"8,568"
+519,Los Altos Hills,"8,423"
+520,Midway City,"8,374"
+521,Gonzales,"8,306"
+522,Firebaugh,"8,296"
+523,Mammoth Lakes,"8,235"
+524,Westlake Village,"8,217"
+525,Pismo Beach,"8,168"
+526,Alondra Park,"8,097"
+527,Rolling Hills Estates,"8,058"
+528,Templeton,"7,938"
+529,Camp Pendleton North,"7,903"
+530,Boyes Hot Springs,"7,863"
+531,Vandenberg Village,"7,861"
+532,Orland,"7,827"
+533,Thousand Palms,"7,814"
+534,Guadalupe,"7,783"
+535,Cherry Valley,"7,755"
+536,Spring Valley Lake,"7,744"
+537,Corning,"7,710"
+538,Oceano,"7,678"
+539,Sebastopol,"7,674"
+540,Woodlake,"7,658"
+541,Piñon Hills,"7,592"
+542,Escalon,"7,574"
+543,Hughson,"7,565"
+544,Gold River,"7,523"
+545,Fairfax,"7,522"
+546,Yreka,"7,518"
+547,Ojai,"7,470"
+548,Topanga,"7,449"
+549,Orosi,"7,441"
+550,Cotati,"7,410"
+551,University of California-Davis,"7,379"
+552,Oroville East,"7,368"
+553,Plumas Lake,"7,367"
+554,Homeland,"7,326"
+555,Winters,"7,315"
+556,Franklin CDP,"7,314"
+557,Fort Bragg,"7,291"
+558,Huron,"7,281"
+559,Gridley,"7,246"
+560,Alta Sierra,"7,207"
+561,South Monrovia Island,"7,192"
+562,Interlaken,"7,191"
+563,Acton,"7,185"
+564,Mecca,"7,174"
+565,Atherton,"7,137"
+566,Calipatria,"7,114"
+567,Ladera Heights,"7,090"
+568,Ben Lomond,"7,071"
+569,Sausalito,"7,068"
+570,Lemoore Station,"7,063"
+571,Rancho Calaveras,"7,035"
+572,Nuevo,"7,033"
+573,San Martin,"7,010"
+574,Joshua Tree,"6,980"
+575,Desert Palms,"6,947"
+576,Kentfield,"6,930"
+577,Mira Monte,"6,912"
+578,Pollock Pines,"6,905"
+579,Loomis,"6,866"
+580,Lake Mathews,"6,848"
+581,Lucas Valley-Marinwood,"6,841"
+582,Bermuda Dunes,"6,817"
+583,Fowler,"6,790"
+584,Crescent City,"6,787"
+585,Thermalito,"6,704"
+586,Castroville,"6,686"
+587,East Porterville,"6,679"
+588,Holtville,"6,621"
+589,El Rio,"6,505"
+590,Contra Costa Centre,"6,497"
+591 TIE,Saranap and La Habra Heights,"6,492"
+592,East Foothills,"6,278"
+593,Pleasure Point,"6,277"
+594,Fruitridge Pocket,"6,215"
+595,Keyes,"6,185"
+596,St. Helena,"6,102"
+597,Willows,"6,072"
+598,Colusa,"6,060"
+599,Hidden Valley Lake,"6,044"
+600,Eucalyptus Hills,"6,017"
+601,East Pasadena,"5,971"
+602,Silver Lakes,"5,966"
+603,West Modesto,"5,911"
+604,Gustine,"5,882"
+605,Las Flores,"5,877"
+606,Durham,"5,863"
+607,Hilmar-Irwin,"5,846"
+608,Solvang,"5,838"
+609,Mayflower Village,"5,822"
+610,Elverta,"5,821"
+611,El Granada,"5,819"
+612,Aptos,"5,797"
+613,Villa Park,"5,790"
+614,Cutler,"5,774"
+615,Strawberry,"5,759"
+616,Greenacres,"5,757"
+617,Cambria,"5,725"
+618,Yosemite Lakes,"5,647"
+619,Twin Lakes,"5,642"
+620,Salton City,"5,611"
+621,Rancho Murieta,"5,603"
+622,Palermo,"5,544"
+623,Old Fig Garden,"5,529"
+624,Dos Palos,"5,527"
+625,El Cerrito,"5,471"
+626,Indian Wells,"5,470"
+627,Woodside,"5,458"
+628,Bear Valley Springs,"5,442"
+629,Lucerne Valley,"5,423"
+630,Kensington,"5,415"
+631,Williams,"5,408"
+632,Tara Hills,"5,405"
+633,Jamul,"5,384"
+634,Bret Harte,"5,319"
+635,Wilton,"5,307"
+636,Myrtletown,"5,290"
+637,Broadmoor,"5,286"
+638,Big Bear Lake,"5,279"
+639,Burbank,"5,252"
+640,Calistoga,"5,247"
+641,Lake Wildwood,"5,208"
+642,Denair,"5,131"
+643,Buellton,"5,102"
+644,Mayfair,"5,091"
+645,Garnet,"5,057"
+646,Lakeport,"5,006"
+647,Highgrove,"4,986"
+648,Needles,"4,976"
+649 TIE,Lake San Marcos and Willits,"4,890"
+650,Sonora,"4,864"
+651,Jackson,"4,840"
+652,Guerneville,"4,808"
+653,Santa Venetia,"4,790"
+654,Lincoln Village,"4,768"
+655,Oak View,"4,720"
+656,Boulder Creek,"4,712"
+657,Fetters Hot Springs-Agua Caliente,"4,697"
+658,Heber,"4,686"
+659,Brisbane,"4,671"
+660,Emerald Lake Hills,"4,594"
+661,Portola Valley,"4,568"
+662,Highlands-Baywood Park,"4,564"
+663,Paradise town,"4,476"
+664,Bonsall,"4,464"
+665,Sunnyside,"4,451"
+666,Planada,"4,418"
+667,Mather,"4,408"
+668,Santa Ynez,"4,401"
+669,Ford City,"4,365"
+670,Pacheco,"4,355"
+671,Del Mar,"4,319"
+672,Copperopolis,"4,299"
+673,Running Springs,"4,296"
+674,Carmel Valley Village,"4,293"
+675 TIE,Wrightwood and Phoenix Lake,"4,283"
+676,Humboldt Hill,"4,268"
+677,Mountain View Acres,"4,260"
+678,North Richmond,"4,233"
+679,Mojave,"4,230"
+680,Harbison Canyon,"4,223"
+681,Ivanhoe,"4,198"
+682,Del Monte Forest,"4,197"
+683 TIE,McSwain and Lake of the Pines,"4,137"
+684,West Menlo Park,"4,116"
+685,Bystrom,"4,099"
+686,Morada,"4,068"
+687,North El Monte,"4,028"
+688,San Joaquin,"4,021"
+689,Angels,"3,956"
+690,Clearlake Riviera,"3,933"
+691,Vine Hill,"3,887"
+692,Lenwood,"3,884"
+693,Wheatland,"3,873"
+694 TIE,Shingle Springs and Woodbridge,"3,865"
+695,French Camp,"3,857"
+696,Carmel-by-the-Sea,"3,811"
+697,Felton,"3,810"
+698,Burney,"3,807"
+699,Moss Beach,"3,799"
+700,Camino Tassajara,"3,798"
+701 TIE,Pixley and Mission Hills,"3,796"
+702,Armona,"3,795"
+703,Esparto,"3,783"
+704,Las Lomas,"3,755"
+705,Bishop,"3,747"
+706,Agua Dulce,"3,728"
+707,Freedom,"3,719"
+708,Brooktrails,"3,709"
+709,Forestville,"3,685"
+710,Avalon,"3,681"
+711,Empire,"3,667"
+712,Kennedy,"3,665"
+713,Arbuckle,"3,636"
+714 TIE,Stallion Springs and Riverdale,"3,625"
+715,Reliez Valley,"3,575"
+716,Hoopa,"3,573"
+717,Pajaro,"3,561"
+718,Greenfield,"3,534"
+719,Meiners Oaks,"3,508"
+720,Mono Vista,"3,504"
+721,Auburn Lake Trails,"3,499"
+722,Campo,"3,482"
+723,Meadow Vista,"3,460"
+724,Lake Isabella,"3,454"
+725,Squaw Valley,"3,449"
+726,Day Valley,"3,439"
+727,Valley Springs,"3,428"
+728,Monte Sereno,"3,427"
+729 TIE,"Angwin, Oakhurst, and El Verano","3,424"
+730 TIE,Lockeford and Tarpey Village,"3,390"
+731,Hidden Meadows,"3,386"
+732,Vandenberg AFB,"3,379"
+733,Cabazon,"3,367"
+734,Casa Conejo,"3,366"
+735,Loyola,"3,364"
+736,Rio Dell,"3,349"
+737,East Oakdale,"3,344"
+738,Desert Edge,"3,343"
+739,Kelseyville,"3,332"
+740,Goshen,"3,316"
+741,Terra Bella,"3,304"
+742,Cottonwood,"3,289"
+743,Lake California,"3,281"
+744,Mount Shasta,"3,274"
+745,Morongo Valley,"3,262"
+746,Weaverville,"3,240"
+747,Tipton,"3,218"
+748,East Richmond Heights,"3,214"
+749,Seacliff,"3,201"
+750,South Oroville,"3,181"
+751,Santa Rosa Valley,"3,180"
+752,Marin City,"3,173"
+753,Anza,"3,151"
+754,Nevada City,"3,148"
+755,Pine Hills,"3,146"
+756,North Lakeport,"3,141"
+757,Coronita,"3,138"
+758,Rollingwood,"3,110"
+759 TIE,Crockett and Cambrian Park,"3,094"
+760,Loma Rica,"3,088"
+761,San Andreas,"3,085"
+762,Ridgemark,"3,062"
+763,San Antonio Heights,"3,034"
+764,Meadowbrook,"3,033"
+765,Cutten,"3,029"
+766,Montalvin Manor,"3,023"
+767,Oasis,"3,020"
+768,Bonny Doon,"3,009"
+769,Val Verde,"2,996"
+770,Sutter,"2,994"
+771,San Miguel,"2,993"
+772,Vista Santa Rosa,"2,967"
+773,Yountville,"2,966"
+774,Penngrove,"2,961"
+775,Lucerne,"2,956"
+776,Winchester,"2,931"
+777,La Selva Beach,"2,917"
+778,Strathmore,"2,915"
+779,Hartley,"2,907"
+780,Fairbanks Ranch,"2,901"
+781,North Shore,"2,892"
+782,Lake Nacimiento,"2,884"
+783,Channel Islands Beach,"2,864"
+784 TIE,Kings Beach and Granite Hills,"2,833"
+785,Amesti,"2,832"
+786,San Miguel CDP,"2,807"
+787,Caruthers,"2,773"
+788,Dixon Lane-Meadow Creek,"2,760"
+789,Mission Canyon,"2,755"
+790,Crest,"2,746"
+791,Weed,"2,725"
+792,Homestead Valley,"2,723"
+793 TIE,Cayucos and Montara,"2,692"
+794,Jamestown,"2,687"
+795,Kelly Ridge,"2,679"
+796,Pine Mountain Lake,"2,671"
+797,Georgetown,"2,668"
+798,West Bishop,"2,661"
+799,Collierville,"2,642"
+800,Dogtown,"2,629"
+801 TIE,Sutter Creek and East Quincy,"2,622"
+802,Bayview CDP,"2,617"
+803,Bella Vista,"2,614"
+804,Rose Hills,"2,612"
+805,Richgrove,"2,611"
+806,Arnold,"2,605"
+807,Lexington Hills,"2,603"
+808,Rancho Santa Fe,"2,591"
+809,Edwards AFB,"2,571"
+810,Frazier Park,"2,570"
+811,Lakeview,"2,566"
+812,Alturas,"2,563"
+813,Aromas,"2,553"
+814,Green Acres,"2,542"
+815,Twain Harte,"2,523"
+816,Santa Nella,"2,508"
+817,Desert View Highlands,"2,496"
+818,Parksdale,"2,493"
+819,Auberry,"2,476"
+820,Ahwahnee,"2,461"
+821,Idyllwild-Pine Cove,"2,459"
+822,Ross,"2,451"
+823,Poplar-Cotton Center,"2,436"
+824,Sky Valley,"2,430"
+825,Taft Heights,"2,424"
+826,Hayfork,"2,421"
+827,Rouse,"2,420"
+828,Three Rivers,"2,397"
+829,Nice,"2,393"
+830,Bell Canyon,"2,391"
+831,Corralitos,"2,381"
+832,Patterson Tract,"2,351"
+833,Brookdale,"2,345"
+834,Boron,"2,312"
+835,Pine Canyon,"2,294"
+836,Soulsbyville,"2,286"
+837,Clearlake Oaks,"2,279"
+838,Shingletown,"2,272"
+839,Westmorland,"2,254"
+840,Borrego Springs,"2,252"
+841,Buckhorn,"2,246"
+842,Weedpatch,"2,238"
+843,Romoland,"2,227"
+844,Hamilton City,"2,224"
+845,Columbia,"2,217"
+846,Easton,"2,206"
+847,Sleepy Hollow,"2,200"
+848,East Sonora,"2,189"
+849,Weldon,"2,181"
+850,Laton,"2,166"
+851,Chester,"2,116"
+852 TIE,Belvedere and San Juan Bautista,"2,104"
+853,Murphys,"2,100"
+854,Mountain View,"2,066"
+855,Bertsch-Oceanview,"2,042"
+856,Piru,"2,019"
+857,Bethel Island,"2,010"
+858,Colfax,"2,002"
+859,Rainbow,"1,994"
+860,Aptos Hills-Larkin Valley,"1,993"
+861,Calwa,"1,974"
+862,Wofford Heights,"1,973"
+863,Bayview,"1,954"
+864,China Lake Acres,"1,947"
+865,Lost Hills,"1,943"
+866,San Pasqual,"1,932"
+867 TIE,Red Corral and Portola,"1,930"
+868,Rancho Tehama Reserve,"1,922"
+869,Warm Springs,"1,903"
+870 TIE,Elizabeth Lake and Quincy,"1,895"
+871,Hidden Hills,"1,890"
+872,Biggs,"1,879"
+873,Graton,"1,877"
+874,Fairmead,"1,876"
+875,London,"1,854"
+876,Parkwood,"1,853"
+877,Woodville,"1,852"
+878 TIE,Rolling Hills city and Los Molinos,"1,845"
+879,Lone Pine,"1,837"
+880,Lake Sherwood,"1,835"
+881,Shasta,"1,804"
+882,Pine Mountain Club,"1,803"
+883,Lebec,"1,802"
+884,Camino,"1,799"
+885,Linden,"1,790"
+886,Littlerock,"1,766"
+887,Woodlands,"1,743"
+888,Toro Canyon,"1,735"
+889 TIE,Pine Grove and Los Ranchos,"1,730"
+890,Le Grand,"1,726"
+891,Monument Hills,"1,700"
+892,Seeley,"1,699"
+893,South Dos Palos,"1,682"
+894,Pine Valley,"1,669"
+895,Black Point-Green Point,"1,655"
+896,Del Rey Oaks,"1,654"
+897,Searles Valley,"1,646"
+898,Descanso,"1,644"
+899 TIE,Home Garden and Coarsegold,"1,643"
+900,Los Alamos,"1,623"
+901,Lower Lake,"1,595"
+902,Buttonwillow,"1,591"
+903,Callender,"1,583"
+904,Leona Valley,"1,581"
+905,Tuolumne City,"1,577"
+906,Green Valley CDP,"1,572"
+907,Big Pine,"1,568"
+908 TIE,Temelec and Dunsmuir,"1,564"
+909,Foresthill,"1,546"
+910,Westwood,"1,545"
+911,Willow Creek,"1,539"
+912,South Taft,"1,526"
+913,Forest Meadows,"1,516"
+914,Lagunitas-Forest Knolls,"1,504"
+915,Knightsen,"1,500"
+916,Del Rey,"1,498"
+917,Colma,"1,489"
+918,Ladera,"1,465"
+919,Biola,"1,451"
+920,Irwindale,"1,446"
+921,Pioneer,"1,443"
+922,Chualar,"1,442"
+923,Penn Valley,"1,424"
+924,Montague,"1,398"
+925,Midpines,"1,396"
+926,Kettleman City,"1,395"
+927,Bodfish,"1,384"
+928,Redwood Valley,"1,376"
+929,Allendale,"1,362"
+930,Thermal,"1,359"
+931,Herlong,"1,353"
+932,Ferndale,"1,352"
+933 TIE,Mariposa and Eldridge,"1,351"
+934,Byron,"1,348"
+935,Lewiston,"1,340"
+936,Malaga,"1,337"
+937,Mountain Ranch,"1,306"
+938,Woodacre,"1,303"
+939,Riverdale Park,"1,301"
+940,Walnut Grove,"1,300"
+941,Tahoe Vista,"1,288"
+942,Shell Ridge,"1,281"
+943 TIE,Janesville and Dunnigan,"1,278"
+944,Avila Beach,"1,273"
+945,Gerber,"1,259"
+946,Santa Margarita,"1,252"
+947,Sheridan,"1,250"
+948,Blue Lake,"1,245"
+949,Berry Creek,"1,241"
+950,Mountain Mesa,"1,236"
+951,Del Rio,"1,235"
+952,Grayson,"1,224"
+953 TIE,Sunnyside-Tahoe City and Airport,"1,222"
+954,Saticoy,"1,201"
+955,Redway,"1,199"
+956,Maricopa,"1,192"
+957,Johnstonville,"1,185"
+958,Laytonville,"1,175"
+959,Newcastle,"1,167"
+960,Covelo,"1,165"
+961,Sea Ranch,"1,161"
+962,Squirrel Mountain Valley,"1,159"
+963,Monte Rio,"1,156"
+964 TIE,Palo Cedro and Elkhorn,"1,151"
+965,March ARB,"1,150"
+966 TIE,Big River and Castle Hill,"1,145"
+967,Pala,"1,143"
+968,Shandon,"1,141"
+969,Matheny,"1,134"
+970,Mi-Wuk Village,"1,133"
+971,Inverness,"1,127"
+972,Garberville,"1,126"
+973,Yosemite Valley,"1,110"
+974,Greenville,"1,108"
+975,Maxwell,"1,096"
+976,Grizzly Flats,"1,087"
+977,Hasley Canyon,"1,085"
+978,Westhaven-Moonstone,"1,084"
+979,Clay,"1,083"
+980,Parklawn,"1,082"
+981,Spring Valley,"1,081"
+982,Bolinas,"1,077"
+983,Plymouth,"1,076"
+984 TIE,Alpaugh and Minkler,"1,074"
+985,McCloud,"1,072"
+986,Bradbury,"1,070"
+987,Boronda,"1,066"
+988,Wallace,"1,063"
+989,Herald,"1,058"
+990 TIE,Upper Lake and Santa Susana,"1,050"
+991,Lake Riverside,"1,049"
+992,Beale AFB,"1,039"
+993,Thornton,"1,038"
+994,Cedar Ridge,"1,037"
+995,West Park,"1,035"
+996 TIE,Sultana and Lake Don Pedro,"1,030"
+997,Camanche North Shore,"1,029"
+998,Teviston,"1,027"
+999,Pasatiempo,"1,018"
+"1,000",Kernville,"1,007"
+"1,001",Chalfant,999
+"1,002",Mount Hermon,998
+"1,003",Cohasset,990
+"1,004",Norris Canyon,987
+"1,005",East Tulare Villa,980
+"1,006 TIE",Tulelake and Hydesville,978
+"1,007",Whitewater,976
+"1,008",Green Valley,973
+"1,009",Sunol,962
+"1,010",East Orosi,955
+"1,011",Taft Mosswood,951
+"1,012",North Edwards,944
+"1,013 TIE",Tuttletown and Soda Bay,941
+"1,014",Zayante,939
+"1,015",Silverado Resort,937
+"1,016",Butte Creek Canyon,931
+"1,017",Julian,930
+"1,018",Geyserville,928
+"1,019",Penryn,925
+"1,020",Summerland,923
+"1,021 TIE","Hopland, Talmage, and Fieldbrook",921
+"1,022",Cobb,920
+"1,023",Deer Park,906
+"1,024",Fruitdale,899
+"1,025",Dorris,897
+"1,026",Rolling Hills,896
+"1,027",Blacklake,892
+"1,028 TIE",Acalanes Ridge and Crowley Lake,889
+"1,029",Lompico,887
+"1,030",Tonyville,881
+"1,031",Stratford,878
+"1,032",Springville,872
+"1,033",Knights Landing,869
+"1,034",Tahoma,867
+"1,035",Challenge-Brownsville,864
+"1,036 TIE",Plainview and Walker,863
+"1,037",Boonville,852
+"1,038",Isleton,844
+"1,039 TIE",Diablo Grande and Fuller Acres,841
+"1,040",Tranquillity,839
+"1,041",Westley,838
+"1,042",Aguanga,835
+"1,043",Manila,834
+"1,044",Occidental,833
+"1,045",Los Olivos,831
+"1,046",Fort Dick,830
+"1,047",Rough and Ready,828
+"1,048",Caspar,812
+"1,049",Happy Camp,810
+"1,050",McClellan Park,809
+"1,051",Cleone,804
+"1,052",Kenwood,800
+"1,053 TIE",Catheys Valley and Mountain Gate,794
+"1,054",Dollar Point,786
+"1,055",Fort Washington,783
+"1,056",Mendocino,782
+"1,057 TIE",Lake of the Woods and Bootjack,768
+"1,058",Alto,765
+"1,059",New Cuyama,763
+"1,060",Middletown,757
+"1,061",Concow,743
+"1,062 TIE",Traver and Inyokern,740
+"1,063",Alhambra Valley,739
+"1,064",Bodega Bay,733
+"1,065",Glen Ellen,727
+"1,066",Lytle Creek,724
+"1,067",Waterloo,719
+"1,068",Etna,718
+"1,069",La Honda,711
+"1,070",Indio Hills,708
+"1,071",Loyalton,702
+"1,072",Fort Jones,692
+"1,073",Seville,691
+"1,074",Junction City,688
+"1,075",Greeley Hill,687
+"1,076 TIE",Linnell Camp and Indianola,686
+"1,077",Millville,682
+"1,078 TIE",Clyde and Loleta,676
+"1,079",Cold Springs,675
+"1,080",Coloma,673
+"1,081",Miranda,672
+"1,082",Douglas City,668
+"1,083",Smith Corner,664
+"1,084 TIE",Tres Pinos and Dobbins,662
+"1,085",Delft Colony,653
+"1,086",Ducor,651
+"1,087",Mokelumne Hill,637
+"1,088",Smith River,632
+"1,089",Potrero,625
+"1,090",Doyle,622
+"1,091 TIE",Gasquet and Camanche Village,620
+"1,092",Desert Shores,619
+"1,093 TIE","Valley Acres, Lakehead, and Klamath",617
+"1,094",Hamilton Branch,612
+"1,095 TIE",Baker and River Pines,607
+"1,096 TIE","Peters, Lockwood, and Patton Village",604
+"1,097",Scotia,602
+"1,098",Graeagle,596
+"1,099",Dustin Acres,590
+"1,100",Onyx,588
+"1,101",Lake Hughes,587
+"1,102",Grangeville,586
+"1,103",Mesa Verde,584
+"1,104",San Simeon,583
+"1,105",West Point,571
+"1,106",Cowan,570
+"1,107",West Goshen,567
+"1,108 TIE",Fulton and Hickman,566
+"1,109",Madison,563
+"1,110",Calpella,562
+"1,111 TIE",Avery and North Gate,559
+"1,112",Stinson Beach,556
+"1,113",San Ardo,554
+"1,114",Friant,548
+"1,115",Paradise Park,543
+"1,116",Independence,542
+"1,117",Los Berros,541
+"1,118",Forest Ranch,538
+"1,119",Courtland,537
+"1,120",Round Valley,533
+"1,121",Allensworth,527
+"1,122",Buena Vista,526
+"1,123 TIE",Niland and Coleville,515
+"1,124 TIE",Delleker and Edmundson Acres,514
+"1,125",Butte Valley,510
+"1,126",June Lake,508
+"1,127",Shelter Cove,501
+"1,128",Bass Lake,500
+"1,129",Shaver Lake,498
+"1,130",Canby,497
+"1,131",California Pines,488
+"1,132",Alta,485
+"1,133",Grenada,477
+"1,134 TIE",Ballard and Bodega,473
+"1,135",San Lucas,472
+"1,136",San Geronimo,466
+"1,137",Bridgeport,464
+"1,138",Carnelian Bay,463
+"1,139",Bend,457
+"1,140",Point Arena,449
+"1,141",Boulevard,445
+"1,142",Victor,444
+"1,143",Clarksburg,442
+"1,144 TIE",Yettem and French Gulch,441
+"1,145",Lindcove,438
+"1,146",Potter Valley,437
+"1,147",Hiouchi,433
+"1,148",Mad River,432
+"1,149",Wilkerson,431
+"1,150",Keswick,430
+"1,151",Yolo,429
+"1,152",Nord,426
+"1,153",Oak Glen,420
+"1,154",Lake Almanor Peninsula,416
+"1,155",Bombay Beach,415
+"1,156",Terminous,411
+"1,157",Ripley,408
+"1,158",Rio Oso,406
+"1,159",Meridian,405
+"1,160",Ballico,401
+"1,161",Sand City,399
+"1,162",Raisin City,389
+"1,163",Bloomfield,387
+"1,164",McArthur,386
+"1,165",Spreckels,385
+"1,166 TIE",Monson and Derby Acres,380
+"1,167",Tehama,373
+"1,168 TIE",Bangor and Manton,372
+"1,169",Centerville,366
+"1,170",Diablo,364
+"1,171",Mexican Colony,363
+"1,172",Meadow Valley,362
+"1,173",Cedarville,360
+"1,174",Grimes,358
+"1,175",Cressey,356
+"1,176 TIE",Salton Sea Beach and Trinidad,355
+"1,177",Garden Farms,345
+"1,178",Newell,342
+"1,179",Burnt Ranch,338
+"1,180",Plumas Eureka,333
+"1,181",Stevinson,331
+"1,182",Sierra Village,330
+"1,183",Fiddletown,329
+"1,184 TIE",North San Juan and El Nido,328
+"1,185",Fields Landing,325
+"1,186",Robbins,321
+"1,187 TIE",Clipper Mills and Nipinnawasee,319
+"1,188",Mesa,317
+"1,189",Anchor Bay,314
+"1,190 TIE",Benton and Keene,313
+"1,191",Tooleville,309
+"1,192 TIE",Groveland and Stirling City,307
+"1,193",Hood,303
+"1,194 TIE",Albion and Lake Almanor Country Club,302
+"1,195",Yankee Hill,301
+"1,196",Martell,300
+"1,197",Sierra Brooks,299
+"1,198",Princeton,297
+"1,199 TIE",Trowbridge and Orick,296
+"1,200 TIE",Acampo and Las Flores CDP,294
+"1,201 TIE",Artois and Mineral,292
+"1,202",Monterey Park Tract,291
+"1,203",Point Reyes Station,290
+"1,204",Cazadero,288
+"1,205",Crescent Mills,287
+"1,206",Elmira,285
+"1,207",Samoa,284
+"1,208 TIE",Greenview and Rail Road Flat,283
+"1,209",Oak Shores,282
+"1,210",Trinity Village,279
+"1,211 TIE",Crows Landing and Mesa Vista,278
+"1,212 TIE",Cantua Creek and Fall River Mills,273
+"1,213",Richfield,272
+"1,214",Weott,271
+"1,215",El Portal,268
+"1,216",Lemon Cove,267
+"1,217 TIE",Desert Center and Davenport,264
+"1,218",Pajaro Dunes,255
+"1,219 TIE",Greenhorn and East Nicolaus,254
+"1,220 TIE",Tomales and Cromberg,253
+"1,221",Taylorsville,244
+"1,222 TIE",Dos Palos Y and Muir Beach,242
+"1,223 TIE",La Vina and College City,239
+"1,224 TIE",Topaz and Lanare,234
+"1,225 TIE",Pescadero and Clear Creek,226
+"1,226",Forbestown,221
+"1,227",Dillon Beach,219
+"1,228",Swall Meadows,218
+"1,229 TIE",Volta and Calpine,216
+"1,230 TIE",Waukena and Hornbrook,215
+"1,231",Beckwourth,214
+"1,232",Olancha,213
+"1,233 TIE","Three Rocks, Vina, and Winterhaven",210
+"1,234",Chinese Camp,206
+"1,235",Dorrington,205
+"1,236",Bear Valley,203
+"1,237 TIE","Industry, Valley Home, and Jacumba",202
+"1,238 TIE",Adin and Philo,201
+"1,239",Manchester,199
+"1,240 TIE",Dutch Flat and Wawona,196
+"1,241",Bowles,194
+"1,242 TIE",Elk Creek and Cherokee Strip,191
+"1,243",Amador City,190
+"1,244 TIE",Little River and Rackerby,189
+"1,245 TIE",Oakville and Big Creek,188
+"1,246",Verdi,187
+"1,247 TIE","Tupman, Paradise, Port Costa, Edna, and Coffee Creek",186
+"1,248",Vallecito,183
+"1,249",Westside,182
+"1,250 TIE",Milford and Fort Bidwell,181
+"1,251 TIE",Bieber and Litchfield,178
+"1,252",Cassel,176
+"1,253",Guinda,175
+"1,254",Flournoy,171
+"1,255",East Shore,169
+"1,256",Pike,167
+"1,257",Nicolaus,166
+"1,258 TIE",Hyampom and Proberta,165
+"1,259 TIE",Whitley Gardens and Hat Creek,164
+"1,260",Smartsville,163
+"1,261",Camptonville,162
+"1,262 TIE","Trinity Center, Benbow, and Bluewater",161
+"1,263",Garey,160
+"1,264 TIE",Bear Creek and Alderpoint,157
+"1,265",Alpine Village,155
+"1,266",Sierra City,152
+"1,267",Moskowite Corner,151
+"1,268 TIE",Pine Flat and Timber Cove,149
+"1,269 TIE",Sisquoc and Valley Ford,148
+"1,270",Chilcoot-Vinton,147
+"1,271",Tecopa,146
+"1,272 TIE",Ruth and Fairhaven,145
+"1,273",Markleeville,143
+"1,274",Cherokee,139
+"1,275 TIE",Mettler and Johannesburg,138
+"1,276",Stonyford,136
+"1,277 TIE",Honcut and Daphnedale Park,135
+"1,278 TIE",Furnace Creek and McKittrick,127
+"1,279 TIE",Lodoga and Lake Almanor West,126
+"1,280",Big Lagoon,118
+"1,281",Franklin,117
+"1,282 TIE",Loma Mar and Downieville,114
+"1,283",Round Mountain,112
+"1,284",Casmalia,111
+"1,285 TIE",Spaulding and Vernon,110
+"1,286",Cold Springs CDP,108
+"1,287",Bradley,107
+"1,288",Nicasio,106
+"1,289 TIE",Macdoel and Paskenta,105
+"1,290 TIE",Monmouth and Sierraville,103
+"1,291",Snelling,101
+"1,292",Richvale,99
+"1,293",Mono City,98
+"1,294",C-Road,97
+"1,295",Big Bend,96
+"1,296",Long Barn,93
+"1,297",Fish Camp,90
+"1,298 TIE",Lee Vining and Farmington,89
+"1,299",Rodriguez Camp,87
+"1,300",Palo Verde,85
+"1,301",Comptche,83
+"1,302",Sereno del Mar,82
+"1,303 TIE",Freeport and Eagleville,81
+"1,304",Sunny Slopes,80
+"1,305",Mount Hebron,78
+"1,306",Sattley,77
+"1,307 TIE",Lookout and Kirkwood,76
+"1,308",Mabie,74
+"1,309",Kingvale,73
+"1,310 TIE",Rutherford and Phillipsville,72
+"1,311",New Pine Creek,71
+"1,312",Aspen Springs,67
+"1,313 TIE",Canyondam and Whitehawk,66
+"1,314 TIE","El Rancho, Clio, and Lake Davis",65
+"1,315",Randsburg,64
+"1,316 TIE",Tuttle and Mohawk Vista,63
+"1,317",Leggett,62
+"1,318 TIE","Hornitos, Montgomery Creek, and Moss Landing",61
+"1,319",Iron Horse,60
+"1,320",Lake City,59
+"1,321 TIE",Bear Valley CDP and Ocotillo,58
+"1,322",Darwin,56
+"1,323",Indian Falls,54
+"1,324 TIE","Washington, Paynes Creek, and Butte Meadows",53
+"1,325",Buck Meadows,51
+"1,326",Fellows,49
+"1,327",Carrick,47
+"1,328",Gazelle,46
+"1,329",Volcano,44
+"1,330",Panorama Heights,42
+"1,331 TIE",Keddie and McClenney Tract,41
+"1,332",Edgewood,40
+"1,333",Coulterville,38
+"1,334",Trona,37
+"1,335",California Hot Springs,36
+"1,336 TIE","Robinson Mill, Old Station, and Homewood Canyon",35
+"1,337",Twain,33
+"1,338",Jenner,32
+"1,339 TIE","Hardwick, Alleghany, and Creston",30
+"1,340 TIE",Pearsonville and Goodyears Bar,29
+"1,341 TIE",Prattville and Sequoia Crest,28
+"1,342",Blairsden,25
+"1,343",Redcrest,23
+"1,344",Soda Springs,21
+"1,345 TIE","Kennedy Meadows, Nubieber, Drytown, Floriston, and Salmon Creek",20
+"1,346 TIE",Little Valley and Tennant,18
+"1,347 TIE",Keeler and Bucks Lake,15
+"1,348 TIE",Spring Garden and Shoshone,13
+"1,349 TIE",Sugarloaf Village and Valley Ranch,10
+"1,350",Cuyama,9
+"1,351",Cartago,7
+"1,352",Strawberry CDP,5
+"1,353",Poso Park,2
